@@ -39,7 +39,7 @@ The recall score obtained after the modifications in the features is similar to 
 #### Combining two models
 In this subsection the mean of the estimated probabilities from two models is calculated, and several values of the threshold are iterated to find the highest value of the recall score obtained. The combination of two models from these three is used: SVC, logistic regression, MPL classifier. The best recall score is obtained when combining the probabilities estimated by the logistic regression model and the MPL classifier model, with a threshold of 0.05. This threshold is used to transform the probabilities to binary values.
 
-## Conclusion
+## 4) Conclusion
 
 The recall score obtain is higher than the goal of the project. While the criterion of the project was to obtain a recall score of 0.95 at least, the one obtain when combining two models is 0.98. Thus,  we expect that 98% of the customers the model predicts as buying a term deposit certificate if contacted during the marketing campaign, will truly buy it. In this case, the bank can earn profit upon 98% of the customers contacted during the marketing campaign. Only 2% of the cost of the marketing campaign is expected to be wasted money, since it is expected that 2% of the customers contacted won’t buy a term deposit certificate. 
 The prediction of the customers who will buy a term deposit helps the bank managers to minimize the cost of the next marketing campaign. Without this prediction, the bank could waste more than 2% of the cost of the marketing campaign, since it could contact a lot of customers that would not buy a term deposit in spite of the campaign.
