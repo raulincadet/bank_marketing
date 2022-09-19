@@ -1,4 +1,10 @@
 # Prediction of Customer who will Subscribe to a Term Deposit: To minimize cost of direct marketing campaign
+====================================================================================
+![GitHub top language](https://img.shields.io/github/languages/top/raulincadet/Bank_marketing?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/raulincadet/Bank_marketing?color=green)
+![GitHub language count](https://img.shields.io/github/languages/count/raulincadet/bank_marketing?style=flat-square)
+![Lines of code](https://img.shields.io/tokei/lines/github/raulincadet/bank_marketing?color=orange&style=plastic)
+
 
 ## 1) Preamble
 A Portuguese banking institution has, in the past, conducted a direct marketing campaign, by phone calls, to increase the number of customers subscribing to a term deposit. The bank should conduct another campaign for the same financial product. However, It costs to conduct such a direct marketing campaign. Indeed, contacting customers who will not subscribe to the term deposit is wasting money. Since the goal of the bank is to maximize profit, it cannot afford to lose money. Then, it is essential that the bank predicts the customers who will subscribe to the term deposit.
