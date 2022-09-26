@@ -1,5 +1,6 @@
 # Prediction of Customer who will Subscribe to a Term Deposit: To minimize cost of direct marketing campaign
-====================================================================================
+================================================================
+
 ![GitHub top language](https://img.shields.io/github/languages/top/raulincadet/Bank_marketing?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/raulincadet/Bank_marketing?color=green)
 ![GitHub language count](https://img.shields.io/github/languages/count/raulincadet/bank_marketing?style=flat-square)
